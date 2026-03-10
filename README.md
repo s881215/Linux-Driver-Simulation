@@ -25,7 +25,7 @@
 ## 📝 快速開始
 
 ### 1. 系統環境準備
-確保您的 `/boot/firmware/config.txt` 已啟用 PWM：
+確保 `/boot/firmware/config.txt` 已啟用 PWM：
 ```text
 [all]
 dtoverlay=pwm-2chan
